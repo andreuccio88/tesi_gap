@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1621873968232.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "736026688",
+    "id" : "F75BBE37",
+    "lastKnownWriteTime" : 1621704356,
+    "last_content_update" : 1621704356,
+    "path" : "~/GitHub/Gender-Gap-Clustering/Rcode/2.cluster_plot_p_1.R",
+    "project_path" : "2.cluster_plot_p_1.R",
+    "properties" : {
+        "cursorPosition" : "88,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
